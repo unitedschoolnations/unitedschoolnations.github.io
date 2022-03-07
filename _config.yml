@@ -1,5 +1,4 @@
 title: The United School Nations
-theme: minima
-
-minima:
-  skin: dark
+remote_theme: dringtech/jekyll-theme-barebones
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
