@@ -1,3 +1,4 @@
+![logo][USN logo]
 # The United School Nations
 The United School Nations have sworn with their loyal members 
  - Moaz Mohamed emperor of 9B 
@@ -8,3 +9,5 @@ The United School Nations have sworn with their loyal members
  - Prince of southern Wallachia Abdnasir under the supervision of Emperor Moaz 
 
 To remain a strong bond to protect eachother and together in every war fight with strength
+
+[USN logo]: USN-logo-temp.jpg
