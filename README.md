@@ -10,4 +10,4 @@ The United School Nations have sworn with their loyal members
 
 To remain a strong bond to protect eachother and together in every war fight with strength
 
-[USN logo]: USN-logo-temp.jpg
+[USN logo]: USN-logo-temp-200px.jpg
