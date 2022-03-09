@@ -11,9 +11,9 @@ The United School Nations have sworn with their loyal members
 To remain a strong bond to protect eachother and together in every war fight with strength
 
 ## Nations in alliance
-9B  
-The Tenian Empire  
-southern Wallachia  
+![logo][9B-logo]9B
+![logo][Tenian-logo]The Tenian Empire
+![logo][Wallachia-logo]southern Wallachia
 
 [USN-logo]: USN-logo-temp-200px.jpg
 [9B-logo]: 9B-logo.jpg
