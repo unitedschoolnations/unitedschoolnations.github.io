@@ -16,6 +16,6 @@ To remain a strong bond to protect eachother and together in every war fight wit
 ![logo][Wallachia-logo]southern Wallachia
 
 [USN-logo]: USN-logo-temp-200px.jpg
-[9B-logo]: 9B-logo.jpg
-[Tenian-logo]: Tenian-logo.jpg
-[Wallachia-logo]: Wallachia-logo.jpg
+[9B-logo]: 9B-logo-100.jpg
+[Tenian-logo]: Tenian-logo-100.jpg
+[Wallachia-logo]: Wallachia-logo-100.jpg
