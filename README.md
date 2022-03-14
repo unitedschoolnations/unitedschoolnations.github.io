@@ -2,8 +2,8 @@
 # The United School Nations
 The United School Nations have sworn with their loyal members 
  - **Moaz Mohamed** emperor of 9B 
- - **Mohamed Tarek** emperor of the Tenian Empire 
- - **Hesham Azzam** Former Secondary King
+ - **Mohamed Tarek** emperor of the Tenian Empire
+ - **Hesham Azzam** Former Secondary King from the Tenian Empire
  - **Zeyad Helmy** Secondary King & Second in command in the Tenian Empire
  - **Yousef Farid** Secondary Queen of Zeyad's family & Third in command in the Tenian Empire
  - **Amal** Secondary Queen and Fourth in command in the Tenian Empire
