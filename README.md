@@ -6,7 +6,7 @@ The United School Nations have sworn with their loyal members
  - **Hesham Azzam** USN Representative and Former Secondary King from the Tenian Empire
  - **Zeyad Helmy** Secondary King & Second in command in the Tenian Empire
  - **Yousef Farid** Secondary Queen of Zeyad's family & Third in command in the Tenian Empire
- - **Amal** Secondary Queen and Fourth in command in the Tenian Empire
+ - **Amat Alrahman** Secondary Queen and Fourth in command in the Tenian Empire
  - **Abdnasir** Prince of southern Wallachia under the supervision of Emperor Moaz 
  - **Sajdea** USN Representative from the Tenian Empire 
 
